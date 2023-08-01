@@ -11,3 +11,5 @@ Follow these instructions to get the project up and running on your local machin
    ```bash
    git clone <repository_url>
    cd to the project
+   npm install
+   npm run dev
