@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+This is a basic Todo List application built using React, TypeScript, and Vite. The application allows you to add new items to the list and delete existing items by clicking the corresponding buttons. Additionally, you can click on a list item to select it, and clicking it again will unselect it.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
